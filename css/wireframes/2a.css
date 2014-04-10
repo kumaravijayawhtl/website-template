@@ -1,0 +1,12 @@
+/*--------------------------------------------------
+Version: 2a
+Purpose: Wireframe
+Updated: 03-11-2010
+Author: Gareth James
+Contact: http://www.globalgraphics.co.uk/
+--------------------------------------------------*/
+
+#header, #banner, #wrap, #footer { width: 100%; }
+#banner, #wrap, #footer { clear: both; }
+#content { width: 605px; float: left; }
+#aside { width: 290px; float: right; }
